@@ -1,0 +1,711 @@
+- set:
+  name: 2021 Panini Absolute Baseball
+  slug: 2021-panini-absolute-baseball
+  card-count: 100
+  genre: Baseball
+  manufacturer: Panini
+  year: 2021
+  is-parallel: false
+  is-insert: false
+  checklist:
+  - card:
+    number: 1
+    taxonomy:
+    - player-team:
+      player: Juan Soto
+      team: Washington Nationals
+    is-rookie: false
+  - card:
+    number: 2
+    taxonomy:
+    - player-team:
+      player: Paul Goldschmidt
+      team: St. Louis Cardinals
+    is-rookie: false
+  - card:
+    number: 3
+    taxonomy:
+    - player-team:
+      player: Vladimir Guerrero Jr.
+      team: Toronto Blue Jays
+    is-rookie: false
+  - card:
+    number: 4
+    taxonomy:
+    - player-team:
+      player: DJ LeMahieu
+      team: New York Yankees
+    is-rookie: false
+  - card:
+    number: 5
+    taxonomy:
+    - player-team:
+      player: Pete Alonso
+      team: New York Mets
+    is-rookie: false
+  - card:
+    number: 6 
+    taxonomy:
+    - player-team:
+      player: Max Fried
+      team: Atlanta Braves
+    is-rookie: false
+  - card:
+    number: 7
+    taxonomy:
+    - player-team:
+      player: Alex Bregman
+      team: Houston Astros
+    is-rookie: false
+  - card:
+    number: 8
+    taxonomy:
+    - player-team:
+      player: Isiah Kiner-Falefa
+      team: Texas Rangers
+    is-rookie: false
+  - card:
+    number: 9
+    taxonomy:
+    - player-team:
+      player: Yu Darvish
+      team: San Diego Padres
+    is-rookie: false
+  - card:
+    number: 10
+    taxonomy:
+    - player-team:
+      player: Shane Bieber
+      team: Cleveland Indians
+    is-rookie: false
+  - card:
+    number: 11
+    taxonomy:
+    - player-team:
+      player: Trevor Story
+      team: Colorado Rockies
+    is-rookie: false
+  - card:
+    number: 12
+    taxonomy:
+    - player-team:
+      player: J.D. Martinez
+      team: Boston Red Sox
+    is-rookie: false
+  - card:
+    number: 13
+    taxonomy:
+    - player-team:
+      player: Rafael Devers
+      team: St. Louis Cardinals
+    is-rookie: false
+  - card:
+    number: 14
+    taxonomy:
+    - player-team:
+      player: Rhys Hoskins
+      team: Philadelphia Phillies
+    is-rookie: false
+  - card:
+    number: 15
+    taxonomy:
+    - player-team:
+      player: Blake Snell
+      team: San Diego Padres
+    is-rookie: false
+  - card:
+    number: 16
+    taxonomy:
+    - player-team:
+      player: Max Scherzer
+      team: Washington Nationals
+    is-rookie: false
+  - card:
+    number: 17
+    taxonomy:
+    - player-team:
+      player: Manny Machado
+      team: San Diego Padres
+    is-rookie: false
+  - card:
+    number: 18
+    taxonomy:
+    - player-team:
+      player: Corbin Burnes
+      team: Milwaukee Brewers
+    is-rookie: false
+  - card:
+    number: 19
+    taxonomy:
+    - player-team:
+      player: Jacob deGrom
+      team: New York Mets
+    is-rookie: false
+  - card:
+    number: 20
+    taxonomy:
+    - player-team:
+      player: Xander Bogaerts
+      team: Boston Red Sox
+    is-rookie: false
+  - card:
+    number: 21
+    taxonomy:
+    - player-team:
+      player: Anthony Rizzo
+      team: Chicago Cubs
+    is-rookie: false
+  - card:
+    number: 22
+    taxonomy:
+    - player-team:
+      player: Cody Bellinger
+      team: Los Angeles Dodgers
+    is-rookie: false
+  - card:
+    number: 23
+    taxonomy:
+    - player-team:
+      player: Freddie Freeman
+      team: Atlanta Braves
+    is-rookie: false
+  - card:
+    number: 24
+    taxonomy:
+    - player-team:
+      player: Aaron Nola
+      team: Philadelphia Phillies
+    is-rookie: false
+  - card:
+    number: 25
+    taxonomy:
+    - player-team:
+      player: Shohei Ohtani
+      team: Los Angeles Angels
+    is-rookie: false
+  - card:
+    number: 26
+    taxonomy:
+    - player-team:
+      player: Charlie Blackmon
+      team: Colorado Rockies
+    is-rookie: false
+  - card:
+    number: 27
+    taxonomy:
+    - player-team:
+      player: Aaron Judge
+      team: New York Yankees
+    is-rookie: false
+  - card:
+    number: 28
+    taxonomy:
+    - player-team:
+      player: Gerrit Cole
+      team: New York Yankees
+    is-rookie: false
+  - card:
+    number: 29
+    taxonomy:
+    - player-team:
+      player: Jimmie Foxx
+      team: Philadelphia Athletics
+    is-rookie: false
+  - card:
+    number: 30
+    taxonomy:
+    - player-team:
+      player: Christian Yelich
+      team: Milwaukee Brewers
+    is-rookie: fals
+  - card:
+    number: 31
+    taxonomy:
+    - player-team:
+      player: J.P. Crawford
+      team: Seattle Mariners
+    is-rookie: false
+  - card:
+    number: 32
+    taxonomy:
+    - player-team:
+      player: Trevor Bauer
+      team: Los Angeles Dodgers
+    is-rookie: false
+  - card:
+    number: 33
+    taxonomy:
+    - player-team:
+      player: Kyle Lewis
+      team: Seattle Mariners
+    is-rookie: false
+  - card:
+    number: 34
+    taxonomy:
+    - player-team:
+      player: Trea Turner
+      team: Washington Nationals
+    is-rookie: false
+  - card:
+    number: 35
+    taxonomy:
+    - player-team:
+      player: Roy Campanella
+      team: Brooklyn Dodgers
+    is-rookie: false
+  - card:
+    number: 36
+    taxonomy:
+    - player-team:
+      player: Kyle Hendricks
+      team: Chicago Cubs
+    is-rookie: false
+  - card:
+    number: 37
+    taxonomy:
+    - player-team:
+      player: Bryan Reynolds
+      team: Pittsburgh Pirates
+    is-rookie: false
+  - card:
+    number: 38
+    taxonomy:
+    - player-team:
+      player: Kyle Tucker
+      team: Houston Astros
+    is-rookie: false
+  - card:
+    number: 39
+    taxonomy:
+    - player-team:
+      player: Billy Martin
+      team: New York Yankees
+    is-rookie: false
+  - card:
+    number: 40
+    taxonomy:
+    - player-team:
+      player: Luis Robert
+      team: Chicago White Sox
+    is-rookie: false
+  - card:
+    number: 41
+    taxonomy:
+    - player-team:
+      player: Joey Votto
+      team: Cincinnati Reds
+    is-rookie: false
+  - card:
+    number: 42
+    taxonomy:
+    - player-team:
+      player: Bryce Harper
+      team: Philadelphia Phillies
+    is-rookie: false
+  - card:
+    number: 43
+    taxonomy:
+    - player-team:
+      player: Ketel Marte
+      team: Arizona Diamondbacks
+    is-rookie: false
+  - card:
+    number: 44
+    taxonomy:
+    - player-team:
+      player: Sandy Koufax
+      team: Los Angeles Dodgers
+    is-rookie: false
+  - card:
+    number: 45
+    taxonomy:
+    - player-team:
+      player: Brandon Lowe
+      team: Tampa Bay Rays
+    is-rookie: false
+  - card:
+    number: 46
+    taxonomy:
+    - player-team:
+      player: Mike Yastrzemski
+      team: San Francisco Giants
+    is-rookie: false
+  - card:
+    number: 47
+    taxonomy:
+    - player-team:
+      player: Bo Bichette
+      team: Toronto Blue Jays
+    is-rookie: false
+  - card:
+    number: 48
+    taxonomy:
+    - player-team:
+      player: Dansby Swanson
+      team: Atlanta Braves
+    is-rookie: false
+  - card:
+    number: 49
+    taxonomy:
+    - player-team:
+      player: Tim Anderson
+      team: Chicago White Sox
+    is-rookie: false
+  - card:
+    number: 50
+    taxonomy:
+    - player-team:
+      player: Zac Gallen
+      team: Arizona Diamondbacks
+    is-rookie: false
+  - card:
+    number: 51
+    taxonomy:
+    - player-team:
+      player: Mookie Betts
+      team: Los Angeles Dodgers
+    is-rookie: false
+  - card:
+    number: 52
+    taxonomy:
+    - player-team:
+      player: Anthony Santander
+      team: Baltimore Orioles
+    is-rookie: false
+  - card:
+    number: 53
+    taxonomy:
+    - player-team:
+      player: Babe Ruth
+      team: New York Yankees
+    is-rookie: false
+  - card:
+    number: 54
+    taxonomy:
+    - player-team:
+      player: Brandon Woodruff
+      team: Milwaukee Brewers
+    is-rookie: false
+  - card:
+    number: 55
+    taxonomy:
+    - player-team:
+      player: Joey Gallo
+      team: Texas Rangers
+    is-rookie: false
+  - card:
+    number: 56
+    taxonomy:
+    - player-team:
+      player: Walker Buehler
+      team: Los Angeles Dodgers
+    is-rookie: false
+  - card:
+    number: 57
+    taxonomy:
+    - player-team:
+      player: Javier Baez
+      team: Chicago Cubs
+    is-rookie: false
+  - card:
+    number: 58
+    taxonomy:
+    - player-team:
+      player: Willy Adames
+      team: Tampa Bay Rays
+    is-rookie: false
+  - card:
+    number: 59
+    taxonomy:
+    - player-team:
+      player: J.T. Realmuto
+      team: Philadelphia Phillies
+    is-rookie: false
+  - card:
+    number: 60
+    taxonomy:
+    - player-team:
+      player: Matt Olson
+      team: Oakland A's
+    is-rookie: false
+  - card:
+    number: 61
+    taxonomy:
+    - player-team:
+      player: Gil Hodges
+      team: Los Angeles Dodgers
+    is-rookie: false
+  - card:
+    number: 62
+    taxonomy:
+    - player-team:
+      player: Kris Bryant
+      team: Chicago Cubs
+    is-rookie: false
+  - card:
+    number: 63
+    taxonomy:
+    - player-team:
+      player: Nolan Arenado
+      team: St. Louis Cardinals
+    is-rookie: false
+  - card:
+    number: 64
+    taxonomy:
+    - player-team:
+      player: Frank Chance
+      team: Chicago Cubs
+    is-rookie: false
+  - card:
+    number: 65
+    taxonomy:
+    - player-team:
+      player: Michael Conforto
+      team: New York Mets
+    is-rookie: false
+  - card:
+    number: 66
+    taxonomy:
+    - player-team:
+      player: Miguel Cabrera
+      team: Detroit Tigers
+    is-rookie: false
+  - card:
+    number: 67
+    taxonomy:
+    - player-team:
+      player: Justin Verlander
+      team: Houston Astros
+    is-rookie: false
+  - card:
+    number: 68
+    taxonomy:
+    - player-team:
+      player: Carlos Correa
+      team: Houston Astros
+    is-rookie: false
+  - card:
+    number: 69
+    taxonomy:
+    - player-team:
+      player: Salvador Perez
+      team: Kansas City Royals
+    is-rookie: false
+  - card:
+    number: 70
+    taxonomy:
+    - player-team:
+      player: Edd Roush
+      team: Cincinnati Reds
+    is-rookie: false
+  - card:
+    number: 71
+    taxonomy:
+    - player-team:
+      player: Buster Posey
+      team: San Francisco Giants
+    is-rookie: false
+  - card:
+    number: 72
+    taxonomy:
+    - player-team:
+      player: Brian Anderson
+      team: Miami Marlins
+    is-rookie: false
+  - 73 Jose Ramirez - Cleveland Indians
+  - card:
+    number: 73
+    taxonomy:
+    - player-team:
+      player: Jose Ramirez
+      team: Cleveland Indians
+    is-rookie: false
+  - card:
+    number: 74
+    taxonomy:
+    - player-team:
+      player: Lucas Giolito
+      team: Chicago White Sox
+    is-rookie: false
+  - card:
+    number: 75
+    taxonomy:
+    - player-team:
+      player: Tyler Glasnow
+      team: Tampa Bay Rays
+    is-rookie: false
+  - card:
+    number: 76
+    taxonomy:
+    - player-team:
+      player: Yogi Berra
+      team: New York Yankees
+    is-rookie: false
+  - card:
+    number: 77
+    taxonomy:
+    - player-team:
+      player: Matt Chapman
+      team: Oakland A's
+    is-rookie: false
+  - card:
+    number: 78
+    taxonomy:
+    - player-team:
+      player: Starling Marte
+      team: Miami Marlins
+    is-rookie: false
+  - card:
+    number: 79
+    taxonomy:
+    - player-team:
+      player: Kenta Maeda
+      team: Minnesota Twins
+    is-rookie: false
+  - card:
+    number: 80
+    taxonomy:
+    - player-team:
+      player: Byron Buxton
+      team: Minnesota Twins
+    is-rookie: false
+  - card:
+    number: 81
+    taxonomy:
+    - player-team:
+      player: Ken Boyer
+      team: St. Louis Cardinals
+    is-rookie: false
+  - card:
+    number: 82
+    taxonomy:
+    - player-team:
+      player: Jeimer Candelario
+      team: Detroit Tigers
+    is-rookie: false
+  - card:
+    number: 83
+    taxonomy:
+    - player-team:
+      player: Mike Trout
+      team: Los Angeles Angels
+    is-rookie: false
+  - card:
+    number: 84
+    taxonomy:
+    - player-team:
+      player: Joe Jackson
+      team: Chicago White Sox
+    is-rookie: false
+  - card:
+    number: 85
+    taxonomy:
+    - player-team:
+      player: Ken Griffey Jr.
+      team: Seattle Mariners
+    is-rookie: false
+  - card:
+    number: 86
+    taxonomy:
+    - player-team:
+      player: Randy Arozarena
+      team: Tampa Bay Rays
+    is-rookie: false
+  - card:
+    number: 87
+    taxonomy:
+    - player-team:
+      player: Jeff McNeil
+      team: New York Mets
+    is-rookie: false
+  - card:
+    number: 88
+    taxonomy:
+    - player-team:
+      player: Fernando Tatis Jr.
+      team: San Diego Padres
+    is-rookie: false
+  - card:
+    number: 89
+    taxonomy:
+    - player-team:
+      player: Nelson Cruz
+      team: Minnesota Twins
+    is-rookie: false
+  - card:
+    number: 90
+    taxonomy:
+    - player-team:
+      player: Jose Abreu
+      team: Chicago White Sox
+    is-rookie: false
+  - card:
+    number: 91
+    taxonomy:
+    - player-team:
+      player: Tony Lazzeri
+      team: New York Yankees
+    is-rookie: false
+  - card:
+    number: 92
+    taxonomy:
+    - player-team:
+      player: Cal Ripken
+      team: Baltimore Orioles
+    is-rookie: false
+  - card:
+    number: 93
+    taxonomy:
+    - player-team:
+      player: Whit Merrifield
+      team: Kansas City Royals
+    is-rookie: false
+  - card:
+    number: 94
+    taxonomy:
+    - player-team:
+      player: Yadier Molina
+      team: St. Louis Cardinals
+    is-rookie: false
+  - card:
+    number: 95
+    taxonomy:
+    - player-team:
+      player: Jack Flaherty
+      team: St. Louis Cardinals
+    is-rookie: false
+  - card:
+    number: 96
+    taxonomy:
+    - player-team:
+      player: Ronald Acuna Jr.
+      team: Atlanta Braves
+    is-rookie: false
+  - card:
+    number: 97
+    taxonomy:
+    - player-team:
+      player: Hyun-Jin Ryu
+      team: Toronto Blue Jays
+    is-rookie: false
+  - card:
+    number: 98
+    taxonomy:
+    - player-team:
+      player: Colin Moran
+      team: Pittsburgh Pirates
+    is-rookie: false
+  - card:
+    number: 99
+    taxonomy:
+    - player-team:
+      player: George Springer
+      team: Toronto Blue Jays
+    is-rookie: false
+  - card:
+    number: 100
+    taxonomy:
+    - player-team:
+      player: Clayton Kershaw
+      team: Los Angeles Dodgers
+    is-rookie: false
